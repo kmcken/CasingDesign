@@ -1,0 +1,7 @@
+Scenario,Original Mud Weight
+Surface Pressure,0,psi
+Closed,True
+
+Top (TVD),Density
+ft,lbm/gal[US]
+0,16.5

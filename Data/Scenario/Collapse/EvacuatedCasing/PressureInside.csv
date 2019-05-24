@@ -1,0 +1,7 @@
+Scenario,Evacuated Casing
+Surface Pressure,0,psi
+Closed,False
+
+Top (TVD),Density
+ft,psi/ft
+0,0
